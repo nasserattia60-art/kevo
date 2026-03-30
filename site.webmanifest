@@ -1,0 +1,9 @@
+{
+  "name": "Kevo Blog and Magazine Template",
+  "short_name": "Kevo",
+  "description": "Feature-rich blog and magazine style template with articles, gallery, features, events, pricing, and more.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3"
+}
